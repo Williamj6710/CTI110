@@ -11,4 +11,3 @@ profit=total_sales*0.23
 
 #Display total profit.
 print('The profit is $',format(profit, ',.2f'))
-
